@@ -1,9 +1,12 @@
 # minicurso-devops
 
+- [Introdução](#introdução-à-devops-falando-sobre-jogos)
+
 ## Introdução à DevOps falando sobre Jogos
 
-
 ### O que é DevOps
+
+![ciclo-devops](./images/image.png)
 
 > ## Teoria
 
@@ -17,11 +20,15 @@ Ferramentas não consertam problemas humanos. O foco é colaboração, confianç
 
 Desenvolvedores e Operações participam das mesmas reuniões (Dailies/Plannings) e têm objetivos comuns, não conflitantes.
 
+<br>
+
 A - Automation (Automação):
 
 Automatizar qualquer processo manual repetitivo para ganhar velocidade e consistência.
 
 Na prática: Scripts que criam servidores, instalam dependências e rodam testes sem intervenção humana (Infra as Code, CI/CD).
+
+<br>
 
 L - Lean (Enxuto):
 
@@ -29,11 +36,15 @@ Mentalidade de "menos desperdício". Fazer entregas em lotes pequenos para errar
 
 Na prática: Em vez de lançar uma atualização gigante a cada 6 meses (alto risco), lançar pequenas melhorias toda semana (baixo risco).
 
+<br>
+
 M - Measurement (Medição/Métricas):
 
 Você não melhora o que não mede. É preciso dados para tomar decisões, não "achismo".
 
 Na prática: Medir o tempo de recuperação de falhas, tempo de deploy e frequência de erros, usando dashboards visíveis para todos.
+
+<br>
 
 S - Sharing (Compartilhamento):
 
@@ -41,8 +52,9 @@ O conhecimento deve fluir livremente. O oposto de reter informação para ter po
 
 Na prática: Se alguém resolve um problema difícil, documenta e ensina os outros. Sucessos e falhas são compartilhados abertamente para o aprendizado coletivo.
 
-
+<br>
 
 > ## Prátia
 
 O profissional de DevOps é o arquiteto da automação e da infraestrutura. Ele atua como uma ponte técnica, criando ferramentas e ambientes para que os desenvolvedores tenham autonomia para entregar código rápido, seguro e sem depender de processos manuais.
+
